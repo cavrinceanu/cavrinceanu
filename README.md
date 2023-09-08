@@ -12,7 +12,7 @@
 
 ---
 Organizations that I'm currently actively involved with or support: 
--  EO: [Geological Remote Sensing Group](https://www.grsg.org.uk/cristina-vrinceanu)), [RSPSoc](https://www.rspsoc.org.uk/)
+-  EO: [Geological Remote Sensing Group](https://www.grsg.org.uk/cristina-vrinceanu), [RSPSoc](https://www.rspsoc.org.uk/)
 -  FOSS4G: [OSGeo](https://www.osgeo.org/), [geo-spatial.org](https://geo-spatial.org/) where I manage the Romanian Cartographic Association project (affiliated to [International Cartographic Association](https://icaci.org/) as national member).
   
 ---
