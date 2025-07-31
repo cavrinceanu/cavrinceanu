@@ -1,6 +1,6 @@
 ### ✨ Hi there, I'm Cristina ✨  👋
 
-🔭 I am currently a [PhD candidate with the Nottingham Geospatial Institute, University of Nottingham](https://www.nottingham.ac.uk/ngi/meet-the-team/cristina.vrinceanu) working on a thesis that aims at assess `offshore oil pollution seep-detection` in the Black Sea basin using `Synthetic Aperture Radar Earth Observation` data using ML and open-source programmatic approaches. 
+🔭 I am currently a [PhD candidate with the Nottingham Geospatial Institute, University of Nottingham](https://www.nottingham.ac.uk/ngi/meet-the-team/cristina.vrinceanu) defending a thesis on the assessessment of `offshore oil pollution and oil seep-detection` in the Black Sea basin using `Synthetic Aperture Radar Earth Observation` data using ML and open-source programmatic approaches. 
 <br> <i> Background in: Ocean Surface Processes, Petroleum Geoscience, Synthetic Aperture Radar, Earth Observaton Marine Products, Algorithm Development, Machine Learning and Deep Learning for Earth Observation </i></br>
 
 🔭 Separately, I hold a position as a [Research Fellow with the Rights Lab Beacon, University of Nottingham](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/cristina-vrinceanu/index.aspx) where I develop `geospatial` and `Earth Observation` based algorithms to detect patterns associated with `modern slavery` across global regions.
