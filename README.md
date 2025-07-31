@@ -8,7 +8,7 @@
 
 👯 My research interests include Earth Observation/Remote Sensing,  Geographic Information Science (GIS), Big Data, Machine Learning/AI and cloud computing (e.g., AWS, Google Earth Engine, Planetary Computer) to study and build products covering the intersection between social and environmental global issues. I am particularily interested in how we can use these technologies for solving challenges in marginalised or underserved communities affected by current global challenges. 
 
-👯 I am very keen on all things `open` and the power of `foss4g` and I occasionally volunteer with [OSGeo](https://www.osgeo.org/) globally and in the UK and with [geo-spatial.org](https://geo-spatial.org/) in Romania. I'm also very happy to share my knowledge and love helping people learn and apply geospatial data and tools. 
+👯 I am very keen on all things `open` and the power of `foss4g` and I occasionally volunteer with [OSGeo](https://www.osgeo.org/) globally and in the UK and with [geo-spatial.org](https://geo-spatial.org/) in Romania. I'm also very happy to share my knowledge and expertise and love helping people learn and apply geospatial data and tools. 
 
 ---
 Organizations that I'm currently actively involved with or support: 
