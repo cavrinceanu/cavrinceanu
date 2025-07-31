@@ -16,7 +16,7 @@ Organizations that I'm currently actively involved with or support:
 -  FOSS4G: [OSGeo](https://www.osgeo.org/), [geo-spatial.org](https://geo-spatial.org/) where I manage the Romanian Cartographic Association project (affiliated to [International Cartographic Association](https://icaci.org/) as national member).
   
 ---
-- 📫 How to reach me: cristina.vrinceanu@nottingham.ac.uk
+- 📫 How to reach me: cristina.vrinceanu2@nottingham.ac.uk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kcarini/](https://www.linkedin.com/in/cristinavrinceanu/))
 
