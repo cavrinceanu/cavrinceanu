@@ -4,7 +4,7 @@
 <br> <i> Background in: Ocean Surface Processes, Petroleum Geoscience, Synthetic Aperture Radar, Earth Observaton Marine Products, Algorithm Development, Machine Learning and Deep Learning for Earth Observation </i></br>
 
 🔭 Separately, I hold a position as a [Research Fellow with the Rights Lab Beacon, University of Nottingham](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/our-team/cristina-vrinceanu/index.aspx) where I develop `geospatial` and `Earth Observation` based algorithms to detect patterns associated with `modern slavery` across global regions.
-<br> <i> Background in: Geospatial and Earth Observation data analysis and mapping, Algorithm development, Product development, Geospatial Systems design, Machine Learning and Deep Learning for Geospatial Big Data </i></br>
+<br> <i> Background in: Geospatial and Earth Observation data analysis and mapping, Algorithm development, Product development, Geospatial Systems design, Machine Learning and Deep Learning for Geospatial Big Data, Modern Slavery and Humanitarian </i></br>
 
 👯 My research interests include Earth Observation/Remote Sensing,  Geographic Information Science (GIS), Big Data, Machine Learning/AI and cloud computing (e.g., AWS, Earth Engine, Planetary Computer) to study and build products covering the intersection between social and environmental global issues. I am particularily interested in how we can use these technologies for solving challenges in marginalised or underserved communities affected by current global challenges. 
 
